@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Train YOLO Model
 
 Notebooks and small scripts to train a custom object-detection model with [Ultralytics YOLO11](https://docs.ultralytics.com/), then run it on images, video or a webcam.
